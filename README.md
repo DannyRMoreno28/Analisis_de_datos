@@ -1,2 +1,2 @@
 # Analisis basico de datos
-En este repositorio encontrará algunos proyectos que plasman diferentes métodos de análisis para en entendimiento de datos.
+Este repositorio contiene proyectos que ilustran diferentes técnicas y enfoques para el análisis de datos. Incluye herramientas y algoritmos para la limpieza, transformación, visualización y modelado de datos, con el objetivo de extraer información valiosa y descubrir patrones y tendencias. Los proyectos incluyen ejemplos prácticos en diversos campos y se utilizan diferentes lenguajes de programación y librerías para llevar a cabo el análisis de datos. Es un recurso valioso para aquellos interesados en aprender y aplicar técnicas de análisis de datos.
